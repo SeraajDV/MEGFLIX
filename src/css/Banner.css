@@ -54,3 +54,8 @@
         #111
     );
 }
+
+.vid {
+    position: relative;
+    z-index: 999;
+}
